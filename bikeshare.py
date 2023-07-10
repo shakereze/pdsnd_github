@@ -24,7 +24,7 @@ def get_filters():
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
 def get_filters():
-    Cities = ["chicago", "new york", "washington"]
+    Cities = ["chicago", "washington"]
     Months = ["all", "january", "february", "march", "april", "may", "june"]
     Days = ["all", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
 
