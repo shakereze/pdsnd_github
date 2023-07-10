@@ -4,10 +4,10 @@
 2023-07-10
 
 ### Project Title
-Replace the Project Title
+Project Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Github Udacity project - modifying remote repository
 
 ### Files used
 Include the files used
